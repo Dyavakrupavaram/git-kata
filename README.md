@@ -1,0 +1,1 @@
+this is basic information regarding repository
