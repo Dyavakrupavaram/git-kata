@@ -1,1 +1,1 @@
-this is basic information regarding repository
+This repository contains all the 19 git-katas solutions.
