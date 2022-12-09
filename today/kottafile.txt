@@ -1,2 +1,6 @@
 hello 
+<<<<<<< HEAD
 im from main
+=======
+im from main
+>>>>>>> cse
