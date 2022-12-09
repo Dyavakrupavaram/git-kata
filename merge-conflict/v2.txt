@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello i am from main
+=======
+hello im from devbranch
+>>>>>>> devbranch
